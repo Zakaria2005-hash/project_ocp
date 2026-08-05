@@ -1,0 +1,13 @@
+# =============================================================================
+# requirements.txt — Dépendances du projet ocp_drying_project
+# =============================================================================
+Django>=5.0
+djangorestframework>=3.15
+django-cors-headers>=4.3
+pandas>=2.0
+openpyxl>=3.1
+numpy>=1.26
+scikit-learn>=1.4
+joblib>=1.3
+matplotlib>=3.8
+seaborn>=0.13

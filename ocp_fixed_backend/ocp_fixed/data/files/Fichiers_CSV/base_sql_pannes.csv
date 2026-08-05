@@ -1,0 +1,433 @@
+date,equipement,duree_h,cause_arret,type_arret,nature,unite
+2026-01-25,RP3,9.0,Réduction suite RP3 indisponible,Décidé,Autre,Z-AM
+2026-01-26,RP3,14.08,Réduction suite travaux  surRP3 indisponible,Décidé,Autre,Z-AM
+2026-01-27,RP3,5.83,Réduction suite travaux  sur RP3 indisponible,Décidé,Autre,Z-AM
+2026-01-01,Four 8,2.0,Chute pression gaz Four 8,Externe,Autre,Z-C
+2026-01-03,US,2.17,Coupure courant,Externe,Autre,Z-C
+2026-01-03,T13 ,0.25,Arrêt d'urgence actionné sur T13,Externe,Autre,Z-AV
+2026-01-04,CL6,0.33,Patinage CL6,Externe,Autre,Z-AM
+2026-01-09,T12bis  ,0.25,Arrêt non signalé de T12 bis ,Externe,Autre,Z-AV
+2026-01-10,T12bis  ,0.25,Arrêt d'urgence actionné sur T12bis,Externe,Autre,Z-AV
+2026-01-22,US,3.0,Cubature stock sec,Externe,Autre,Z-C
+2026-01-28,Four 3,3.0,Réduction Four 3 suit ( produit insuffisant),Externe,Autre,Z-C
+2026-01-29,US,7.33,Manque expédition,Externe,Autre,Z-C
+2026-01-30,US,12.0,Manque expédition,Externe,Autre,Z-C
+2026-01-31,US,12.83,Manque expédition,Externe,Autre,Z-C
+2026-01-31,US,13.83,Manque expédition,Externe,Autre,Z-C
+2026-02-01,US,12.58,Manque expédition,Externe,Autre,Z-C
+2026-02-02,US,22.7,Manque expédition,Externe,Autre,Z-C
+2026-02-03,US,24.0,Manque expédition,Externe,Autre,Z-C
+2026-02-04,US,24.0,Manque expédition,Externe,Autre,Z-C
+2026-02-05,US,17.83,Manque expédition,Externe,Autre,Z-C
+2026-02-06,US,9.75,Manque expédition,Externe,Autre,Z-C
+2026-02-07,US,6.92,Manque expédition,Externe,Autre,Z-C
+2026-02-08,US,7.17,Manque expédition,Externe,Autre,Z-C
+2026-02-09,US,4.17,Manque expédition,Externe,Autre,Z-C
+2026-02-12,US,17.58,Manque expédition,Externe,Autre,Z-C
+2026-02-13,US,5.83,Manque expédition,Externe,Autre,Z-C
+2026-02-14,US,6.58,Manque expédition,Externe,Autre,Z-C
+2026-02-15,US,8.75,Manque expédition,Externe,Autre,Z-C
+2026-02-16,T12bis  ,0.33,Arrête d'urgence actionné T12 bis,Externe,Autre,Z-AV
+2026-02-16,Four 7,1.5, Réduction F7 suite stock plein,Externe,Autre,Z-C
+2026-02-17,Four 7,0.58, Réduction F7 suite stock plein,Externe,Autre,Z-C
+2026-02-19,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-02-20,UC,0.67,Rupture jeune,Externe,Autre,Z-C
+2026-02-20,US,0.25,Arrêt suite anticipation stock plein,Externe,Autre,Z-C
+2026-02-20,Four 7,0.83, Réduction F7 suite stock plein,Externe,Autre,Z-C
+2026-02-21,Four 7,9.5,Arrêt suite stock plein,Externe,Autre,Z-C
+2026-02-22,Four 7,12.67,Arrêt suite stock plein,Externe,Autre,Z-C
+2026-02-23,Four 7,15.58,Arrêt suite stock plein,Externe,Autre,Z-C
+2026-02-23,US,3.0,Cubature stock sec,Externe,Autre,Z-C
+2026-02-24,Four 7,12.5,Arrêt suite stock plein,Externe,Autre,Z-C
+2026-02-25,Four 7,11.17,Arrêt suite stock plein,Externe,Autre,Z-C
+2026-02-26,Four 7,7.83,Arrêt suite stock plein,Externe,Autre,Z-C
+2026-02-27,Four 7,8.0,Arrêt suite stock plein,Externe,Autre,Z-C
+2026-02-28,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-01,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-02,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-03,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-03,US,4.08,Réduction  suite stock plein,Externe,Autre,Z-C
+2026-03-04,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-04,US,7.42, Réduction  suite stock plein,Externe,Autre,Z-C
+2026-03-05,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-05,US,9.33,Réduction  suite stock plein,Externe,Autre,Z-C
+2026-03-06,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-06,US,8.42,Réduction  suite stock plein,Externe,Autre,Z-C
+2026-03-07,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-07,US,6.08,Réduction  suite stock plein,Externe,Autre,Z-C
+2026-03-08,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-08,US,4.67,Réduction  suite stock plein,Externe,Autre,Z-C
+2026-03-09,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-09,US,7.58,Réduction  suite stock plein,Externe,Autre,Z-C
+2026-03-10,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-10,US,9.83,Réduction  suite stock plein,Externe,Autre,Z-C
+2026-03-11,US,17.83,Arrêt  suite stock plein,Externe,Autre,Z-C
+2026-03-12,UC,0.83,Rupture jeune,Externe,Autre,Z-C
+2026-03-12,Four 7,3.0,Réduction F7 suite stock plein,Externe,Autre,Z-C
+2026-03-12,Four 6,3.0,Réduction  F6 suite stock plein,Externe,Autre,Z-C
+2026-03-13,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-13,Four 7,3.0,Réduction F7 suite stock plein,Externe,Autre,Z-C
+2026-03-13,Four 6,0.83,Réduction  F6 suite stock plein,Externe,Autre,Z-C
+2026-03-14,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-15,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-16,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-17,RP3,13.83,Débit insuffisant ( RP3 indisponible ),Externe,Autre,Z-AM
+2026-03-18,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-19,UC,0.75,Rupture jeune,Externe,Autre,Z-C
+2026-03-20,T12bis  ,1.0,Arrêt non signalé T12 bis,Externe,Autre,Z-AV
+2026-03-20,US,3.0,Arrêt décidés des fours,Externe,Autre,Z-C
+2026-03-22,US,1.0,Passage a l'horaire GMT + 1,Externe,Autre,Z-C
+2026-03-24,US,2.0,Cubature stock sec,Externe,Autre,Z-C
+2026-03-26,CL8bis,1.5,Patinage CL8-bis,Externe,Autre,Z-AM
+2026-03-27,CL7 BIS    ,0.33,Patinage CL7-bis,Externe,Autre,Z-AM
+2026-03-28,CL7 BIS    ,0.25,Patinage CL7-bis,Externe,Autre,Z-AM
+2026-03-30,US,0.5,Chute tension électrique,Externe,Autre,Z-C
+2026-04-03,US,0.17,Changement qualité,Externe,Autre,Z-AV
+2026-04-06,T13 ,0.25,Arrêt d'urgence actionné sur T13,Externe,Autre,Z-AV
+2026-04-06,T11bis,0.42,Arrêt d'urgence actionné sur T11bis,Externe,Autre,Z-AV
+2026-04-06,T12   ,0.17,Surcharge T12,Externe,Autre,Z-AV
+2026-04-10,US,1.25,Coupure courant,Externe,Autre,Z-C
+2026-04-13,Four 3,3.0,Arrêt suite anticipation stock plein,Externe,Autre,Z-C
+2026-04-13,Four 7,1.5,Arrêt suite anticipation stock plein,Externe,Autre,Z-C
+2026-04-18,Four 3,0.5,Chute pression gaz Four 3,Externe,Autre,Z-C
+2026-04-19,Four 5,1.83,Réduction des fours suite Travaux électrique ONE,Externe,Electrique,Z-C
+2026-04-23,US,2.92,Cubature stock sec,Externe,Autre,Z-C
+2026-04-27,US,14.75,Manque expédition,Externe,Autre,Z-C
+2026-04-28,US,17.58,Manque expédition,Externe,Autre,Z-C
+2026-04-29,US,8.0,Manque produit (qualité non comforme devant RP3),Externe,Autre,Z-C
+2026-04-30,US,16.17,Manque expédition,Externe,Autre,Z-C
+2026-05-01,US,14.75,Manque expédition,Externe,Autre,Z-C
+2026-05-02,US,13.08,Manque expédition,Externe,Autre,Z-C
+2026-05-03,US,2.5,Manque expédition,Externe,Autre,Z-C
+2026-05-04,US,14.67,Manque expédition,Externe,Autre,Z-C
+2026-05-05,US,13.67,Manque expédition,Externe,Autre,Z-C
+2026-05-06,US,11.25,Manque expédition,Externe,Autre,Z-C
+2026-05-07,US,7.83,Manque expédition,Externe,Autre,Z-C
+2026-05-08,US,24.0,Manque expédition,Externe,Autre,Z-C
+2026-05-09,US,11.83,Manque expédition,Externe,Autre,Z-C
+2026-05-11,US,12.83,Manque expédition,Externe,Autre,Z-C
+2026-05-12,US,4.0,Manque expédition,Externe,Autre,Z-C
+2026-05-13,US,12.42,Manque expédition,Externe,Autre,Z-C
+2026-05-15,US,7.0,Manque expédition,Externe,Autre,Z-C
+2026-05-16,US,6.75,Manque expédition,Externe,Autre,Z-C
+2026-05-17,US,8.0,Coupure courant Electrique,Externe,Electrique,Z-C
+2026-05-17,US,2.08,Manque expédition,Externe,Autre,Z-C
+2026-05-18,US,18.83,Manque expédition,Externe,Autre,Z-C
+2026-05-19,Four 7,1.58,Chute pression gaz Four 7,Externe,Autre,Z-C
+2026-05-20,US,4.08,Manque expédition,Externe,Autre,Z-C
+2026-05-21,US,7.5,Manque expédition,Externe,Autre,Z-C
+2026-05-22,US,2.0,Manque expédition,Externe,Autre,Z-C
+2026-05-24,US,4.25,Manque expédition,Externe,Autre,Z-C
+2026-05-25,US,2.42,Manque expédition,Externe,Autre,Z-C
+2026-05-27,US,24.0,Manque expédition,Externe,Autre,Z-C
+2026-05-28,US,24.0,Manque expédition,Externe,Autre,Z-C
+2026-05-29,US,12.83,Manque expédition,Externe,Autre,Z-C
+2026-06-14,US,8.5,Manque expédition,Externe,Autre,Z-C
+2026-06-15,Four 5,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-15,Four 6,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-15,Four 7,2.92,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-16,Four 2,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-16,Four 6,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-16,Four 7,0.5,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-17,Four 6,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-17,Four 7,1.75,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-19,US,1.83,Manque expédition,Externe,Autre,Z-C
+2026-06-19,US,0.25,Changement qualité,Externe,Autre,Z-AV
+2026-06-20,US,5.5,Manque expédition,Externe,Autre,Z-C
+2026-06-21,US,4.25,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-22,Four 3,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-23,Four 3,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-23,Four 6,3.33,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-24,Four 3,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-24,Four 6,3.25,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-26,Four 1,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-26,Four 3,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-26,Four 6,0.75,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-27,Four 1,3.0,Réduction suite stock plein,Externe,Autre,Z-C
+2026-06-27,Four 3,1.42,Réduction suite stock plein,Externe,Autre,Z-C
+2026-01-02,T11bis,5.83,Changement palier T11bis ,M.Planifiée,Mécanique,Z-AV
+2026-01-05,RP3,5.33,Travaux sur remise en états axe arbre la roue  de RP3 ,M.Planifiée,Autre,Z-AM
+2026-01-05,Four 8,0.83,Changement moteur de MV1 F8,M.Planifiée,Mécanique,Z-AM
+2026-01-06,RP3,6.5,Travaux sur remise en états axe arbre la roue  de RP3 ,M.Planifiée,Autre,Z-AM
+2026-01-06,US,0.17,Essai de la vanne régulatrice d'isolement de circuit de gag en cas de fuite,M.Planifiée,Electrique,Z-C
+2026-01-07,Four 6,0.83,Travaux de remise en état des galets TS,M.Planifiée,Mécanique,Z-C
+2026-01-08,RP3,5.33,Travaux sur remise en états des boulons RAG ,M.Planifiée,Mécanique,Z-AM
+2026-01-09,RP3,2.0,Travaux sur RP3,M.Planifiée,Mécanique,Z-AM
+2026-01-12,Four 7,0.25,Entretien la ligne  gicleur F7,M.Planifiée,Mécanique,Z-C
+2026-01-13,Four 7,0.42,Entretien la ligne  gicleur F7,M.Planifiée,Mécanique,Z-C
+2026-01-14,RP3,15.0,Travaux Entretien sur RP3,M.Planifiée,Mécanique,Z-AM
+2026-01-15,RP3,1.0,Travaux Entretien sur RP3,M.Planifiée,Mécanique,Z-AM
+2026-01-16,RP3,6.5,Travaux Entretien sur RP3,M.Planifiée,Mécanique,Z-AM
+2026-01-17,RP3,13.33,Travaux Entretien sur RP3,M.Planifiée,Mécanique,Z-AM
+2026-01-17,Crible N°2,3.5,Travaux sur remise en états des grilles  Crible N°2,M.Planifiée,Autre,Z-AM
+2026-01-18,RP3,7.75,Travaux Entretien sur RP3,M.Planifiée,Mécanique,Z-AM
+2026-01-18,Crible N°2,0.33,Travaux sur remise en états des grilles  Crible N°2,M.Planifiée,Autre,Z-AM
+2026-01-18,RP3,3.42,Travaux sur RP3,M.Planifiée,Mécanique,Z-AM
+2026-01-19,RP3,13.83,Travaux  Entretien  RP3,M.Planifiée,Autre,Z-AM
+2026-01-20,RP3,11.08,Travaux  Entretien  RP3,M.Planifiée,Autre,Z-AM
+2026-01-21,RP3,8.5,Travaux  Entretien  RP3,M.Planifiée,Autre,Z-AM
+2026-01-22,RP3,7.42,Travaux  Entretien  RP3,M.Planifiée,Autre,Z-AM
+2026-01-23,RP3,11.5,Travaux  Entretien  RP3,M.Planifiée,Autre,Z-AM
+2026-01-23,T23 BIS   ,2.0, Changement du variateur T23 Bis,M.Planifiée,Electrique,Z-AM
+2026-01-24,RP3,11.5,Travaux  Entretien  RP3,M.Planifiée,Autre,Z-AM
+2026-01-24,Crible N°2,3.25,Travaux sur remise en états des grilles  Crible N°2,M.Planifiée,Autre,Z-AM
+2026-02-16,Four 1,1.0,Changement accouplement M/R d'extracteur,M.Planifiée,Mécanique,Z-C
+2026-02-18,Four 6,0.25,Inspection et contrôle des FAM,M.Planifiée,Exploitation,Z-C
+2026-02-18,Four 1,0.67,Changement accouplement M/R d'extracteur,M.Planifiée,Mécanique,Z-C
+2026-02-20,Four 4,0.75,Remise en état dosimètre extracteur F4,M.Planifiée,Electrique,Z-C
+2026-02-28,Four 3,3.0,Travaux  d'entretien F3,M.Planifiée,Autre,Z-C
+2026-03-25,Four 8,0.5,Remise en etats des boulons vérol tube sécheur ,M.Planifiée,Mécanique,Z-C
+2026-03-25,T1200 BIS  ,0.17,Remise en etat de la trappe T1200 bis,M.Planifiée,Mécanique,Z-AM
+2026-03-30,Four 5,0.42,Changement moteur MV3,M.Planifiée,Mécanique,Z-C
+2026-03-31,Four 5,0.5,Changement pompe d'injection ,M.Planifiée,Mécanique,Z-C
+2026-03-31,RP3,0.42,Changement de TAS,M.Planifiée,Autre,Z-AM
+2026-04-01,Four 2,1.92,Travaux mecanique sur tubs sécheur,M.Planifiée,Mécanique,Z-C
+2026-04-07,US,13.83,Arrêt  planifiée,M.Planifiée,Autre,Z-AM
+2026-04-08,Four 7,2.75,Entretien  des FAM,M.Planifiée,Autre,Z-C
+2026-04-09,Four 7,3.0,Entretien  des FAM,M.Planifiée,Autre,Z-C
+2026-04-10,Four 7,3.0,Entretien  des FAM,M.Planifiée,Autre,Z-C
+2026-04-11,Four 7,3.0,Entretien  des FAM,M.Planifiée,Autre,Z-C
+2026-04-12,Four 7,3.0,Entretien  des FAM,M.Planifiée,Autre,Z-C
+2026-04-13,T11bis,0.83,Graissage palier tambour T11 bis,M.Planifiée,Mécanique,Z-C
+2026-04-14,Four 7,3.0,Entretien  des FAM,M.Planifiée,Autre,Z-C
+2026-04-15,Four 7,3.0,Entretien  des FAM,M.Planifiée,Autre,Z-C
+2026-04-16,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-16,CL6,1.67,Réglage déport bande CL6,M.Planifiée,Installation,Z-AM
+2026-04-17,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-18,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-19,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-20,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-21,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-22,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-23,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-24,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-04-25,Four 7,0.83,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-05-10,Four 7,3.0,Travaux Entretien  ,M.Planifiée,Autre,Z-C
+2026-05-10,Four 6,0.5,Refixation paliers et resserage boulons TS et décoincement ventilles VC,M.Planifiée,Autre,Z-C
+2026-05-30,RP3,10.17,Changement  TM tapis fleche RP3,M.Planifiée,Mécanique,Z-AM
+2026-05-31,RP3,11.17,Travaux installateur sur tapis fleche RP3,M.Planifiée,Installation,Z-AM
+2026-06-04,US,18.67,Arrêt  planifiée,M.Planifiée,Autre,Z-AM
+2026-06-05,US,1.0,Arrêt  planifiée,M.Planifiée,Autre,Z-AM
+2026-06-08,Four 2,0.42, Travaux sur tube sécheur,M.Planifiée,Mécanique,Z-C
+2026-06-13,T21   ,0.33,Ajustement racleur T21,M.Planifiée,Installation,Z-AM
+2026-06-25,US,20.42,Arrêt  planifiée,M.Planifiée,Autre,Z-AM
+2026-01-01,Four 7,0.17,Défaut sur moteur de refroidissement VT ,Panne,Electrique,Z-C
+2026-01-02,CL7     ,0.17,Patinage  CL7,Panne,Installation,Z-AM
+2026-01-04,CL9,0.25,Défaut discordance de CL9,Panne,Electrique,Z-AM
+2026-01-05,CL9,1.5,Patinage CL9,Panne,Installation,Z-AM
+2026-01-08,T11,0.17,Déport bande T11,Panne,Installation,Z-AV
+2026-01-09,RP3,2.33,Réduction suite RP3 indisponible,Panne,Mécanique,Z-AM
+2026-01-18,T11,0.25,Défaut déport bande T11,Panne,Installation,Z-AV
+2026-01-24,RP3,3.0,Réduction suite RP3 indisponible,Panne,Mécanique,Z-AM
+2026-01-27,T23 BIS   ,0.33,Défaut électrique T23 bis,Panne,Electrique,Z-AV
+2026-01-28,RP3,0.75,Défaut électrique RP3,Panne,Electrique,Z-AM
+2026-01-28,T23 BIS   ,0.33,Défaut électrique T23 bis,Panne,Electrique,Z-AV
+2026-02-09,T1200   ,0.5,Travaux installateurs T1200,Panne,Installation,Z-AV
+2026-02-10,RP3,0.5,Défaut sur translation RP3,Panne,Electrique,Z-AM
+2026-02-10,T11bis,0.33,Défaut sur Détecteur de rotation ,Panne,Installation,Z-AV
+2026-02-10,Four 5,0.33,Changement moteur MV1 F5,Panne,Mécanique,Z-C
+2026-02-17,CL9bis  ,0.42,Déport bande CL9 bis,Panne,Installation,Z-AV
+2026-02-17,RP3,0.75,Défaut Electrique,Panne,Electrique,Z-AM
+2026-02-19,Four 4,0.17,Entretien la ligne  gicleur F4,Panne,Mécanique,Z-C
+2026-02-28,Four 1,0.75,Travaux SM sur TM TS (changement accouplement),Panne,Mécanique,Z-C
+2026-03-01,T21   ,0.58,Changement rouleau sur T21 ,Panne,Installation,Z-AM
+2026-03-01,Four 1,2.17,Travaux  SM sur TM TS (changement TOC ),Panne,Mécanique,Z-C
+2026-03-04,RP3,1.42,Défaut de translation RP3,Panne,Electrique,Z-AM
+2026-03-06,RP3,1.5,Défaut Electrique RP3,Panne,Electrique,Z-AM
+2026-03-14,Four 7,0.42,Changement gicleur et réglage combustion bruleur,Panne,Mécanique,Z-C
+2026-03-16,T1200 BIS  ,0.67,Changement des agrafes T1200BIS,Panne,Installation,Z-AM
+2026-03-19,CL9bis  ,1.0,Déport bande CL9 bis,Panne,Installation,Z-C
+2026-03-21,T11,0.17,Défaut déport bande T11,Panne,Installation,Z-AV
+2026-03-21,CL6,0.42,Patinnage la bande CL6,Panne,Electrique,Z-AM
+2026-03-27,CL9bis  ,0.17,Défaut de demarrage CL9bis,Panne,Electrique,Z-AM
+2026-04-03,T12   ,0.33,Déport bande T12,Panne,Installation,Z-AV
+2026-04-14,Four 1,0.17,Défaut électrique sur vérin trappe 1ere batterie,Panne,Electrique,Z-C
+2026-04-15,CL8bis,0.67,Déport bande,Panne,Autre,Z-AM
+2026-05-10,Four 6,0.42,Arachement flamme bruleur,Panne,Installation,Z-C
+2026-05-14,Four 6,0.33,Elimination fuite de gazoline au niveau de circuit de retour,Panne,Mécanique,Z-C
+2026-05-24,RP3,1.58,Défaut d'orientation RP3,Panne,Electrique,Z-C
+2026-05-30,RP3,2.5,Défaut  sur TM tapis fleche RP3,Panne,Mécanique,Z-AM
+2026-05-30,CL6,0.42,Défaut sur détecteour  de bourrage sur CL6,Panne,Installation,Z-AM
+2026-05-31,RP3,2.5,Défaut  sur TM tapis fleche RP3,Panne,Mécanique,Z-AM
+2026-06-08,Four 4,0.33,Entretien la ligne  gicleur F4,Panne,Mécanique,Z-C
+2026-06-09,Four 4,0.17,Entretien la ligne  gicleur F4,Panne,Mécanique,Z-C
+2026-06-12,Four 2,0.17,Défaut sur Variateur de vitesse de ventillateur de tirage,Panne,Electrique,Z-C
+2026-06-12,RP3,0.17,Défaut de fin de cours RP3,Panne,Electrique,Z-C
+2026-06-18,Four 7,0.5,Travaux mécanique sur galet tube sécheur,Panne,Mécanique,Z-C
+2026-06-28,T11bis,3.0,Réparation  bande T11bis ,Panne,Installation,Z-AV
+2026-01-01,RP3,1.08,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-02,Four 7,0.17,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-02,Crible N°1,2.33,Bouchage crible N°1,Utilisation,Autre,Z-AM
+2026-01-03,Four 7,0.42,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-03,Four 7,0.42,Bouchage vis MV2 de FAM,Utilisation,Exploitation,Z-C
+2026-01-03,US,1.42,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-04,RP3,1.33,Bourrage du RP3,Utilisation,Exploitation,Z-AM
+2026-01-04,Four 7,0.33,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-04,US,0.42,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-05,Four 7,0.25,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-05,RP3,1.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-10,RP3,0.58,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-06,Four 7,0.58,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-07,CL6,0.17,Bourrage du CL6,Utilisation,Exploitation,Z-AM
+2026-01-07,RP3,0.58,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-07,Four 7,0.17,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-08,RP3,0.17,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-09,RP3,0.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-10,RP3,0.58,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-11,RP3,0.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-11,US,0.17,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-11,Four 7,0.25,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-12,RP3,1.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-12,Four 7,0.25,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-13,RP3,2.67,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-13,US,0.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-13,Four 7,0.25,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-01-14,US,0.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-15,RP3,4.67,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-01-15,US,0.58,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-15,CL9,1.17,Nettoyage de la base de renvoie CL9,Utilisation,Exploitation,Z-AM
+2026-01-16,US,0.58,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-22,US,1.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-28,US,0.33,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-01-28,RP3,1.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-07,US,0.83,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-02-09,RP3,1.0,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-09,US,0.33,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-02-10,RP3,0.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-10,US,0.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-02-11,RP3,1.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-11,US,0.33,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-02-13,T12bis  ,0.58,Débouchage goulotte jetée T12 bis,Utilisation,Exploitation,Z-AV
+2026-02-13,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-14,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-16,RP3,1.25,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-17,RP3,2.25,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-18,RP3,1.83,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-19,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-19,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-02-28,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-01,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-02,RP3,0.67,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-08,RP3,0.25,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-09,RP3,0.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-14,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-15,RP3,0.83,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-16,US,0.67,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-03-16,RP3,1.17,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-18,RP3,1.25,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-19,RP3,0.83,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-19,US,0.67,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-03-19,T12bis  ,0.5,Bouchage gouloutte T12 bis,Utilisation,Exploitation,Z-C
+2026-03-20,US,1.67,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-03-20,RP3,1.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-20,Four 2,0.42,Bouchage gouloutte jetée F2,Utilisation,Exploitation,Z-AM
+2026-03-20,Four 7,0.67,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-03-21,US,0.33,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-03-21,RP3,0.58,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-22,Four 7,0.17,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-03-22,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-23,RP3,0.5,Réduction suite débit insuffisant( alimentation par les camions ),Utilisation,Exploitation,Z-AM
+2026-03-23,RP3,0.58,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-23,Four 7,0.17,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-03-23,RP3,0.25,Manque produit( Pb sur flixible chargeuse),Utilisation,Exploitation,Z-AM
+2026-03-24,RP3,0.33,Réduction suite débit insuffisant( alimentation par les camions ),Utilisation,Exploitation,Z-AM
+2026-03-24,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-24,RP3,0.17,Nettoyage produit aux alentour de la trémie ( Alimentation par les camions),Utilisation,Exploitation,Z-AM
+2026-03-25,US,0.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-03-25,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-26,CL9,0.17,Netoyage produit à côté trémie (Alimentation par les camions),Utilisation,Exploitation,Z-AM
+2026-03-26,RP3,0.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-27,US,0.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-03-27,RP3,0.67,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-28,Four 7,0.08,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-03-28,RP3,0.92,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-29,Four 7,0.42,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-03-29,US,0.92,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-03-29,RP3,0.33,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-03-30,US,0.83,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-AM
+2026-03-31,Four 7,0.17,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-03-31,US,0.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-03-31,RP3,0.83,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-01,Four 7,0.25,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-04-01,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-02,Four 7,0.17,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-04-02,RP3,0.58,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-02,US,0.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-03,RP3,0.83,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-03,US,0.17,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-04,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-04,US,2.0,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-04,Four 7,0.25,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-04-05,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-05,US,2.0,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-05,Four 7,0.25,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-04-05,RP3,0.17,Changement de passe,Utilisation,Exploitation,Z-AM
+2026-04-06,RP3,1.33,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-06,US,1.33,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-08,RP3,0.67,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-08,US,0.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-08,T11bis,0.33,Néttoyage détecteur de rotation,Utilisation,Autre,Z-AV
+2026-04-09,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-09,US,0.42,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-10,US,0.58,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-11,US,1.0,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-12,US,0.17,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-12,RP3,0.17,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-13,T12bis  ,0.58,Débouchage goulote jetée T12 bis,Utilisation,Exploitation,Z-AM
+2026-04-13,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-14,US,1.5,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-14,RP3,0.33,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-15,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-17,RP3,0.17,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-18,RP3,0.33,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-19,US,2.08,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-04-20,RP3,0.67,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-21,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-22,RP3,0.83,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-23,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-24,T23   ,0.17,Entretien base T23  ,Utilisation,Exploitation,Z-AM
+2026-04-25,RP3,0.92,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-04-26,RP3,0.33,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-05-10,US,0.25,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-05-10,Four 7,0.25,Chute dépression F7,Utilisation,Exploitation,Z-C
+2026-05-14,RP3,0.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-05-19,RP3,0.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-05-19,US,0.25,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-05-20,RP3,0.83,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-05-20,US,0.75,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-05-21,RP3,0.42,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-05-22,CL6 BIS    ,1.17,Retour produit à la base suit fuite sur goulotte jetée ,Utilisation,Exploitation,Z-C
+2026-05-22,CL6 BIS    ,2.5,Travaux nettoyage suite retour  produit à la base ,Utilisation,Exploitation,Z-C
+2026-05-23,RP3,1.17,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-05-23,CL6 BIS    ,2.5,Travaux nettoyage suite retour  produit à la base ,Utilisation,Exploitation,Z-C
+2026-05-24,RP3,0.67,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-05-24,US,0.83,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-05-25,RP3,1.0,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-05-25,US,0.33,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-05-26,RP3,1.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-01,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-02,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-03,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-05,RP3,1.08,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-05,CL8   ,2.5,Nettoyage CL8,Utilisation,Exploitation,Z-AM
+2026-06-06,RP3,0.33,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-06,US,0.25,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-06-07,RP3,0.75,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-08,RP3,0.58,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-08,US,0.33,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-06-09,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-10,RP3,0.5,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-11,RP3,0.58,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-11,RP3,0.5,Changement passe,Utilisation,Exploitation,Z-AM
+2026-06-12,RP3,1.08,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-13,RP3,0.83,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-13,RP3,0.17,Changement passe,Utilisation,Exploitation,Z-AM
+2026-06-18,US,0.83,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-06-28,RP3,0.33,Changement passe,Utilisation,Exploitation,Z-AM
+2026-06-28,US,1.0,Perturbation la marche suite humidité élevé,Utilisation,Exploitation,Z-C
+2026-06-29,T1200   ,0.42,Déport bande T1200,Panne,Installation,Z-AM
+2026-06-29,RP3,1.17,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-30,RP3,0.83,Bourrage tapis fléche,Externe,Exploitation,Z-AM
+2026-06-30,RP3,0.67,Débit insuffisant,Utilisation,Exploitation,Z-AM
+2026-06-30,RP3,0.75,Trvaux mécanique sur galet tube sécheur ,M.Planifiée,Mécanique,Z-AM
+2026-06-30,Four 5,0.75,Rettapage tole au niveau du trémie Four 5,Panne,Mécanique,Z-C
